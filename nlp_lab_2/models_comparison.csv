@@ -1,0 +1,7 @@
+model,vector_size,vocabulary_size,analogy_accuracy,training_time
+Word2Vec (CBOW),100,2823,0.0,0.5097174644470215
+Word2Vec (Skip-gram),100,2823,0.0,1.347118854522705
+FastText (CBOW),100,2823,0.0,4.36474871635437
+FastText (Skip-gram),100,2823,0.0,5.644195795059204
+Doc2Vec (PV-DBOW),100,2823,0.0,0.5206253528594971
+Doc2Vec (PV-DM),100,2823,0.0,0.672792911529541

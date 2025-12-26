@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+gensim
+nltk
+spacy
+plotly
+matplotlib
+seaborn
+umap-learn
+streamlit
+wordcloud
+pymorphy3
+pymystem3
+jupyter
+tqdm
+scipy
